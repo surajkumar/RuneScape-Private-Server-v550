@@ -7,7 +7,8 @@ As a result, I decided to entirely refactor their **Obfuscated** Java client and
 This project is now at a playable state and most of the major game components have been fully identified and the server is at a position where we only need to re-implement the games content (i.e. the gameplay). 
 
 A screen of the game running:
-<img src="https://user-images.githubusercontent.com/76599223/166706272-2ae3bc97-04b5-4dfe-8243-16a60b6607ec.png" width="150" height="auto">
+
+<img src="https://user-images.githubusercontent.com/76599223/166706272-2ae3bc97-04b5-4dfe-8243-16a60b6607ec.png" width="300" height="auto">
 
 ## Current Features
 * Almost Full player updating and some NPC updating
